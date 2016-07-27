@@ -11,3 +11,9 @@ I came across several solutions to this problem. </br>
 7. Don't run Ruby on Windows. </br>
 
 I did the Cheap solution, i.e., #3.
+
+Maybe the best thing to do is not the change
+any of the exisitng files, and just create
+a new class that inherits the the class defined
+in the existing files, but rewrite the class.
+This way you keep the existing code.
