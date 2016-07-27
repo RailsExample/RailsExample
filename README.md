@@ -17,3 +17,11 @@ any of the exisitng files, and just create
 a new class that inherits the the class defined
 in the existing files, but rewrite the class.
 This way you keep the existing code.
+
+But the problem is that the "name" of the class method
+that is being over written ends up being a variable, so
+there needs to be a conditional statement.
+
+But writing pre-existing gems might have larger effects
+that are not immediately apparent.
+
