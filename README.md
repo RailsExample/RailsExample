@@ -22,6 +22,6 @@ But the problem is that the "name" of the class method
 that is being over written ends up being a variable, so
 there needs to be a conditional statement.
 
-But writing pre-existing gems might have larger effects
+But re-writing existing gems might have larger effects
 that are not immediately apparent.
 
