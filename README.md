@@ -1,6 +1,7 @@
 # README
 
-A problem arises when running Ruby on Windows. </br>
+A problem arises when running the Tutrial on Windows
+for the first time. </br>
 I came across several solutions to this problem. </br>
 1. Comment out a line in application.js in vendor directory </br>
 2. Edit ExecJS in vendor directory </br>
@@ -12,3 +13,4 @@ I came across several solutions to this problem. </br>
 
 I did the Cheap solution, i.e., #3.
 
+But this is no longer a problem.
